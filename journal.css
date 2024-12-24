@@ -1,0 +1,43 @@
+/*header {
+    height: 50px;
+    background-color: rgb(229, 229, 21); 
+    padding: 10px; 
+    border-bottom: 5px solid #a5d7d7;
+    
+} */
+
+header img {
+    width: 20%;
+    height: 20%x;
+       
+}
+
+header h1 {
+    text-align: center;
+    display: inline;
+    padding-left: 6%;
+    
+    }
+
+.container {
+    display: block;
+    text-align: left;
+    width: 40%;
+    height: 100%;
+    background-color: burlywood;
+    border-style: 10px solid black   ;
+    border-style: dashed;
+    margin-left: 25%;
+    padding-left: 10%;
+    }
+
+    .container ol li a {
+        text-decoration: none;
+        vis
+    }
+
+    body {
+        background-color: chartreuse;
+    }
+
+   
